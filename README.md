@@ -1,4 +1,4 @@
-Uses `face-api.js` to detect your face on browser using webcam. It also runs a simple algorithm to determine if your mouth is open. Credits from [https://towardsdatascience.com/how-to-detect-mouth-open-for-face-login-84ca834dff3b](https://towardsdatascience.com/how-to-detect-mouth-open-for-face-login-84ca834dff3b). I merely converted the algorithm from Python to Javascript.
+Uses `face-api.js` to detect your face on browser using webcam. It also runs a simple algorithm to determine if your mouth is open. Credits to [https://towardsdatascience.com/how-to-detect-mouth-open-for-face-login-84ca834dff3b](https://towardsdatascience.com/how-to-detect-mouth-open-for-face-login-84ca834dff3b). I merely converted the algorithm from Python to Javascript.
 
 # Instructions
 
